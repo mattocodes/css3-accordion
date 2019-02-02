@@ -1,6 +1,6 @@
 # CSS3 Accordion
 
-Today, I began working on making a CSS3 Accordion.
+Today, I worked on making a CSS3 Accordion.
 
 
 ## Mission
